@@ -1,3 +1,10 @@
+* NOTE: The original analysis included a small number of participant-level
+* corrections taken from field notes (individual GDS item values, missing-reason
+* codes, and participation-level reclassifications). These are keyed on study IDs
+* and are omitted from this public version to protect participant privacy.
+* The analysis dataset itself is not public, so this script documents the
+* analysis steps but cannot be run without access to the SWISS100 data.
+
 *==============================================================================*
 * SWISS100 - GDS item non-response & missing data                     V7
 * Requires: dtable (Stata 18+), estout (ssc install estout)
