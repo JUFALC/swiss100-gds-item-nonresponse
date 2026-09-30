@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "SWISS100 GDS item non-response: analysis and simulation code"
+version: "1.0.0"
+license: MIT
+authors:
+  - family-names: Falciola
+    given-names: Justine
+  - family-names: Hoffman
+    given-names: Adar
+  - family-names: Gomes da Rocha
+    given-names: Carla
+  - family-names: Herrmann
+    given-names: François R.
+  - family-names: von Gunten
+    given-names: Armin
+  - family-names: Jopp
+    given-names: Daniela S.
+repository-code: "https://github.com/JUFALC/swiss100-gds-item-nonresponse"
+abstract: "Stata and R code for the analysis of item non-response in the Geriatric Depression Scale (GDS-15 and GDS-4) among centenarians in the Swiss Centenarian Study (SWISS100), and for a Monte Carlo simulation comparing scoring strategies for incomplete GDS answers."
+keywords:
+  - centenarians
+  - geriatric depression scale
+  - item non-response
+  - missing data
+  - imputation
