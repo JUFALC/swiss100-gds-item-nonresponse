@@ -39,7 +39,7 @@ To re-run the simulation itself, run `code/01_simulation_synthetic_data_V4.R` (t
 
 ## Citation and licence
 
-Please cite the archived version (Zenodo DOI to be added) and the article. Code is released under the MIT licence (see `LICENSE`).
+Please cite this repo and the article. Code is released under the MIT licence (see `LICENSE`).
 
 ## Contact
 
